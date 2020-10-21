@@ -64,7 +64,7 @@ Ensuite, il faut décoder `Y29uZmk6ZGVudGlhbA==` en base64.
 
 https://www.root-me.org/fr/Challenges/Reseau/Authentification-twitter
 
-![Image de la trame](https://github.com/Filtox/Cybersecurity/blob/main/Challenges/1.png)
+![Image de la trame](https://github.com/Filtox/Cybersecurity/blob/main/Root-me/Challenges/1.png)
 
 
 ---
