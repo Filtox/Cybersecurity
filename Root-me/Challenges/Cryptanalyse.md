@@ -19,6 +19,15 @@ Il faut décoder le code UU.
 
 
 ---
+## Hash - Message Digest 5
+
+
+https://www.root-me.org/fr/Challenges/Cryptanalyse/Hash-Message-Digest-5
+
+Il faut décoder le code MD.
+
+
+---
 ## Chiffrement par décalage
 
 
