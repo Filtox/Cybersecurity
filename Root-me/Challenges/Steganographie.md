@@ -39,7 +39,7 @@ On commence alors à jouer avec les points, regarder si ceux-ci ne représentent
 
 https://www.root-me.org/fr/Challenges/Steganographie/Steganomobile
 
-La solution m'a sauté aux yeux de suite, j'ai immédiatement pensé que cela correspont aux touches des vieux téléphones mobiles et qu'ils s'agissaient donc d'un message. Il suffit donc juste de faire correspondre les chiffres aux lettres correspondantes. Ce la se nomme la saisie T9.<br/><br/>
+La solution m'a sauté aux yeux de suite, j'ai immédiatement pensé que cela correspont aux touches des vieux téléphones mobiles et qu'ils s'agissaient donc d'un message. Il suffit donc juste de faire correspondre les chiffres aux lettres correspondantes. Cela se nomme la saisie T9.<br/><br/>
 
 <img src="img/T9.png" alt="Clavier T9" width="auto" height="300px">
 
