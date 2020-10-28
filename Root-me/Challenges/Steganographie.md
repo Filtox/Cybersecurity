@@ -26,7 +26,7 @@ https://www.root-me.org/fr/Challenges/Steganographie/Point-a-la-ligne
 Pour ce challenge, rendez-vous sur un site pour décrypter des messages cachés Tweeter et coller le tweet dedans. Cela vous donnera le mot de passe.
 
 
-![Image de la trame](https://github.com/Filtox/Cybersecurity/blob/main/Root-me/Challenges/img/journal.png)
+![Image de la trame](https://github.com/Filtox/Cybersecurity/blob/main/Root-me/Challenges/img/journal.jpg)
 
 ---
 ## Twitter Secret Messages
