@@ -31,7 +31,7 @@ Tout d’abord, en lisant le titre et l’énoncé, on se doute bien que l’ép
 
 On commence alors à jouer avec les points, regarder si ceux-ci ne représentent pas une forme entre eux, si les lettres avant/après les points pouvaient donner quelque chose... Et c’est la que le détail ci-dessus devient important. On a essayé de regarder avant les points, après les points, mais étant donné qu’il n’y a rien seulement sur la première ligne, on pourrait essayer de regarder au dessus des points.<br/><br/>
 
-![Image de la trame](https://github.com/Filtox/Cybersecurity/blob/main/Root-me/Challenges/img/journal.jpg)
+![Image du challenge](https://github.com/Filtox/Cybersecurity/blob/main/Root-me/Challenges/img/journal.jpg)
 
 ---
 ## Stéganomobile
@@ -39,7 +39,9 @@ On commence alors à jouer avec les points, regarder si ceux-ci ne représentent
 
 https://www.root-me.org/fr/Challenges/Steganographie/Steganomobile
 
-La solution m'a sauté aux yeux de suite, j'ai immédiatement pensé que cela correspont aux touches des vieux téléphones mobiles et qu'ils s'agissaient donc d'un message. Il suffit donc juste de faire correspondre les chiffres aux lettres des téléphones.
+La solution m'a sauté aux yeux de suite, j'ai immédiatement pensé que cela correspont aux touches des vieux téléphones mobiles et qu'ils s'agissaient donc d'un message. Il suffit donc juste de faire correspondre les chiffres aux lettres correspondantes. Ce la se nomme la saisie T9.<br/><br/>
+
+![Image du clavier T9](https://github.com/Filtox/Cybersecurity/blob/main/Root-me/Challenges/img/T9.png)
 
 ---
 ## Twitter Secret Messages
