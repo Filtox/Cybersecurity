@@ -41,7 +41,7 @@ https://www.root-me.org/fr/Challenges/Steganographie/Steganomobile
 
 La solution m'a sauté aux yeux de suite, j'ai immédiatement pensé que cela correspont aux touches des vieux téléphones mobiles et qu'ils s'agissaient donc d'un message. Il suffit donc juste de faire correspondre les chiffres aux lettres correspondantes. Ce la se nomme la saisie T9.<br/><br/>
 
-<img src="img/T9.png" alt="Clavier T9" width="auto" height="400px">
+<img src="img/T9.png" alt="Clavier T9" width="auto" height="300px">
 
 ---
 ## Twitter Secret Messages
@@ -50,3 +50,29 @@ La solution m'a sauté aux yeux de suite, j'ai immédiatement pensé que cela co
 https://www.root-me.org/fr/Challenges/Steganographie/Twitter-Secret-Messages
 
 Pour ce challenge, rendez-vous sur un site pour décrypter des messages cachés Tweeter et coller le tweet dedans. Cela vous donnera le mot de passe.
+
+---
+## Du bruit
+
+
+https://www.root-me.org/fr/Challenges/Steganographie/Du-bruit
+
+Il faut réduire la vitesse de lecture et lire le fichier à l'envers.
+
+---
+## George et Alfred
+
+
+https://www.root-me.org/fr/Challenges/Steganographie/George-et-Alfred
+
+Heuresement pour moi, j'avais étudié ce cas en cours de Français au lycée donc il m'a été facile de trouver la solution. Il suffit de prendre le premier mot de chaque lignes.
+
+---
+## Audio stégano
+
+
+https://www.root-me.org/fr/Challenges/Steganographie/Audio-stegano
+
+J'ai utilisé le logiciel Sonic Visualiser pour ce challenge. Il suffit de regarder le spectrogramme du fichier et le flag apparait.
+
+![Image du spectrogramme](https://github.com/Filtox/Cybersecurity/blob/main/Root-me/Challenges/img/spectre.png)
