@@ -73,6 +73,6 @@ Heuresement pour moi, j'avais étudié ce cas en cours de Français au lycée do
 
 https://www.root-me.org/fr/Challenges/Steganographie/Audio-stegano
 
-J'ai utilisé le logiciel Sonic Visualiser pour ce challenge. Il suffit de regarder le spectrogramme du fichier et le flag apparait.
+J'ai utilisé le logiciel Sonic Visualiser pour ce challenge. Il suffit de regarder le spectrogramme du fichier et le flag apparait.<br/><br/>
 
 ![Image du spectrogramme](https://github.com/Filtox/Cybersecurity/blob/main/Root-me/Challenges/img/spectre.png)
