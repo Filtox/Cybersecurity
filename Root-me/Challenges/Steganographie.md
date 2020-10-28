@@ -41,8 +41,7 @@ https://www.root-me.org/fr/Challenges/Steganographie/Steganomobile
 
 La solution m'a sauté aux yeux de suite, j'ai immédiatement pensé que cela correspont aux touches des vieux téléphones mobiles et qu'ils s'agissaient donc d'un message. Il suffit donc juste de faire correspondre les chiffres aux lettres correspondantes. Ce la se nomme la saisie T9.<br/><br/>
 
-![Image du clavier T9](https://github.com/Filtox/Cybersecurity/blob/main/Root-me/Challenges/img/T9.png)
-<img src="img/T9.png" alt="alt text" width="100 px" height="100 px">
+<img src="img/T9.png" alt="Clavier T9" width="auto" height="200px">
 
 ---
 ## Twitter Secret Messages
