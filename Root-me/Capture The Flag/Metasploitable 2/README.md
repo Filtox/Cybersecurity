@@ -3,7 +3,7 @@
 
 Une fois l'environnement virtuel démarré et kali linux lancé, il faut récupérer l'adresse de l'environnement virtuel (exemple : `ctf01.root-me.org`).
 
-Il faut lancer nmap sur Kali Linux, il faut taper cette commande : `nmap -v - A ctf01.root-me.org`.<br/>
+Il faut lancer nmap sur Kali Linux, il faut taper cette commande : `nmap -v -A ctf01.root-me.org`.<br/>
 L'argument **-v** sert à augmenter le niveau de verbosité, forçant Nmap à afficher plus d'informations sur le scan qu'il effectue. Les ports ouverts sont indiqués au fur et à mesure où ils sont trouvés ainsi qu'une évaluation du temps qui reste à scanner si Nmap pense que cela prendra quelques minutes. Utilisez cette option deux fois pour encore plus de verbosité.<br/>
 L'argument **-A** sert à détecter le système d'exploitation et la version.
 
