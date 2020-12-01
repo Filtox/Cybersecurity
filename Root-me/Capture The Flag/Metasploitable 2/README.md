@@ -11,7 +11,7 @@ En parallèle de l'analyse, il faut lancer Metasploit avec cette commande `msfco
 
 Une fois que l'analyse nmap est terminée, une faille sur le port 21 est affichée :
 
-![Image de nmap](https://github.com/Filtox/Root-me/blob/main/Capture%20The%20Flag/Metasploitable%202/1.png)
+![Image de nmap](1.png)
 
 Il faut utiliser le nom de cette faille sur Metasploit. Il faut chercher si les deux versions sont identiques en tapant sur Metasploit : `search vsftpd`.
 
@@ -21,6 +21,6 @@ Puis il faut saisir le RHOSTS qui est vide par defaut, le RHOSTS correspond à l
 
 Ceci fait, il faut lancer l'exploit en tapant `exploit`.
 
-![Image de metasploit](https://github.com/Filtox/Root-me/blob/main/Capture%20The%20Flag/Metasploitable%202/2.png)
+![Image de metasploit](2.png)
 
 Ensuite, il faut éxécuter la commande `shell` puis `ls` et le fichier `passwd` est listé. Il faut donc l'ouvrir et le mot de passe se trouve à l'intérieur.
