@@ -16,6 +16,7 @@ Un mot nous interpelle : `makeInviteCode`
 Il faut taper `makeInviteCode()` dans la console. Une réponse très intéressante apparait :<br/><br/>
 ![Image de la réponse dans la console](console1.png)
 
-Les données sont cryptées. Elles sont cryptés en ROT13.
+Les données sont cryptées. Elles sont cryptés en ROT13.<br>
 Il suffit de se rendre sur un site et de décoder les données : `Va beqre gb trarengr gur vaivgr pbqr, znxr n CBFG erdhrfg gb /ncv/vaivgr/trarengr`, ce qui donne `In order to generate the invite code, make a POST request to /api/invite/generate`.<br/>
-Après ça, ouvrez un terminal et éxécuter `curl -XPOST https://www.hackthebox.eu/api/invite/generate`, ce qui donne : `{"success":1,"data":{"code":"unCodeSeraIci","format":"encoded"},"0":200}`. On peut voir un nouveau code encore encodé. Allez à nouveau sur un décodeur en base 64 et rentrez le code, ce qui vous donnera votre code d'invitation.
+Après ça, ouvrez un terminal et éxécuter `curl -XPOST https://www.hackthebox.eu/api/invite/generate`, ce qui donne : `{"success":1,"data":{"code":"unCodeSeraIci","format":"encoded"},"0":200}`.<br>
+On peut voir un nouveau code encore encodé. Allez à nouveau sur un décodeur en base 64 et rentrez le code, ce qui vous donnera votre code d'invitation.
