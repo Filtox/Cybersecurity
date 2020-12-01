@@ -65,7 +65,7 @@ Il faut réduire la vitesse de lecture et lire le fichier à l'envers.
 
 https://www.root-me.org/fr/Challenges/Steganographie/George-et-Alfred
 
-Heuresement pour moi, j'avais étudié ce cas en cours de Français au lycée donc il m'a été facile de trouver la solution. Il suffit de prendre le premier mot de chaque lignes.
+Heuresement pour moi, j'avais étudié ce cas en cours de Français au lycée donc il m'a été facile de trouver la solution. Il suffit de prendre le premier mot de chaque ligne.
 
 ---
 ## Audio stégano
