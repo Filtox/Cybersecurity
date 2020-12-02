@@ -29,7 +29,7 @@ Ceci fait, il faut lancer l'exploit en tapant :<br>
 
 ![Image de metasploit](2.png)
 
-Ensuite, il faut éxécuter la commande `shell` puis `ls` et le fichier `passwd` est listé. Il faut donc l'ouvrir et le mot de passe se trouve à l'intérieur.
+Ensuite, il faut éxécuter la commande `shell` *(pour entrer dans l'interpréteur de commande)* puis `ls` et le fichier `passwd` est listé. Il faut donc l'ouvrir et le mot de passe se trouve à l'intérieur.
 <br>
 <br>
 <br>
