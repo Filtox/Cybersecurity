@@ -21,7 +21,7 @@ Il faut utiliser le nom de cette faille sur Metasploit. Il faut chercher si les 
 Metasploit la possède, il faut donc l'utiliser en tapant :<br>
 `use exploit/unix/ftp/vsftpd_234_backdoor`
 
-Puis il faut saisir le RHOSTS qui est vide par defaut, le RHOSTS correspond à l'adresse IP de l'environnement virtuel, elle est obtenue lors de l'analyse de nmap. La commande pour saisir le RHOSTS :<br>
+Puis il faut saisir le RHOSTS *(hôte distant)* qui est vide par defaut, le RHOSTS correspond à l'adresse IP de l'environnement virtuel, elle est obtenue lors de l'analyse de nmap. La commande pour saisir le RHOSTS :<br>
 `set RHOSTS 163.172.228.114`
 
 Ceci fait, il faut lancer l'exploit en tapant :<br>
