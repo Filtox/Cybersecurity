@@ -120,3 +120,12 @@ Il suffit d'éxécuter la commande `dig @challenge01.root-me.org -p 54011 axfr c
 https://www.root-me.org/fr/Challenges/Reseau/IP-Time-To-Live
 
 La réponse est située au packet 71.
+
+
+
+---
+## SIP - Authentification
+
+
+https://www.root-me.org/fr/Challenges/Reseau/SIP-Authentification
+
