@@ -129,3 +129,5 @@ La réponse est située au packet 71.
 
 https://www.root-me.org/fr/Challenges/Reseau/SIP-Authentification
 
+On a 3 lignes qui font référence aux 2 mêmes IPs. La mention REGISTER dans la première ligne laisse penser qu’il s’agit de l’enregistrement d’un utilisateur. La structure de chaque ligne montre des champs séparés par des guillemets doubles. On peut facilement voir que l’avant dernier champ de chaque ligne correspond à une méthode de codage.
+On voit ainsi que l’enregistrement de la première ligne à été fait avec le mot de passe (dernier champ) en clair (PLAIN).
